@@ -1,0 +1,6 @@
+{
+  "name": "recruitment-poster-sidebar-dist",
+  "version": "0.2.0",
+  "private": true,
+  "output": "dist"
+}
